@@ -23,3 +23,37 @@ We agreed to perform the following tasks, which will be checked off upon complet
 
 I think the plot [here](https://en.wikipedia.org/wiki/Angular_resolution) (under the 'Specific Cases' section) is rather interesting.
 Perhaps we could use it to come up with more ideas...
+
+---
+
+**Second Attempt: Starting 21 September 2016**
+
+---
+
+* Add time to y-axis
+	* [] vertical lines to indicate resolution that intersect year instrument was introduced
+* Populate low angular size area (1uas as to 1mas) of x-axis
+	* [] exoplanets, microlensing, quasars (5 mas), accretion disks
+
+## Kristin, Weichen and Alex (KWA) Spectra Plot
+
+Assignment for 171.618 (Observational Astronomy), in which we create a plot of objects arranged by
+the angular resolution required to resolve them (I believe this was the intent of the plot). 
+
+Started 21 September 2016
+
+Initial Commit 21 September 2016
+
+---
+
+**First attempt: Starting 21 September 2016**
+
+---
+
+* Stars (Weichen)
+    * [] O, G, M types
+* Planets (Kristin)
+	* [] Jupiter, Neptune, Mars, Earth
+* Galaxies (Alex)
+    * [] Spiral, Elliptical, Irregular
+
