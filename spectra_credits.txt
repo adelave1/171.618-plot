@@ -1,0 +1,11 @@
+Galaxy Spectra (NGC 1832, NGC 4648, NGC 1569) from NED (from Kennicutt 1992)
+
+Quasar Spectrum (3C732) from NED
+
+Earth spectrum - http://vpl.astro.washington.edu/spectra/planetary/epoxi.htm
+
+HST filters - forgot source, need to look again
+
+stellar spectra - http://www.eso.org/sci/facilities/paranal/decommissioned/isaac/tools/lib.html (Pickles 1998)
+
+HST curves - http://www.stsci.edu/hst/acs/analysis/throughputs
