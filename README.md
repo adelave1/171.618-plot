@@ -31,9 +31,9 @@ Perhaps we could use it to come up with more ideas...
 ---
 
 * Add time to y-axis
-	* [] vertical lines to indicate resolution that intersect year instrument was introduced
+	* [x] vertical lines to indicate resolution that intersect year instrument was introduced
 * Populate low angular size area (1uas as to 1mas) of x-axis
-	* [] exoplanets, microlensing, quasars (5 mas), accretion disks
+	* [x] exoplanets, microlensing, quasars (5 mas), accretion disks
 
 ## Kristin, Weichen and Alex (KWA) Spectra Plot
 
@@ -51,9 +51,9 @@ Initial Commit 21 September 2016
 ---
 
 * Stars (Weichen)
-    * [] O, G, M types
+    * [x] O, G, M types
 * Planets (Kristin)
 	* [] Jupiter, Neptune, Mars, Earth
 * Galaxies (Alex)
-    * [] Spiral, Elliptical, Irregular
+    * [x] Spiral, Elliptical, Irregular
 
