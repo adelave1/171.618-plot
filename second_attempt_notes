@@ -7,3 +7,13 @@ largest exoplanet - ~2 Jupiter radii, 300 pc away, ~3 uas
 microlensing for exoplanets ~ 1 uas - 1 mas
 
 labels to add to y-axis
+
+scrapping time for y-axis, replacing with distance in pc
+
+add another x-axis in radians, add another y-axis in km
+
+short lines for telescopes in yellow, add name to left/right, resolution beneath name
+
+Spectra plot
+
+plot each spectrum within main plot (plot within a plot) using log-y scale
